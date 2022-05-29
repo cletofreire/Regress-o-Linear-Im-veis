@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
 # Importando as  bibliotecas
 import pandas as pd
 import seaborn as sns
